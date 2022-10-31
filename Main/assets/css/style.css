@@ -3,7 +3,12 @@
   margin:0;
   padding:0;  
 }
-
+ h1 {
+  background-color: #266150;
+  position: sticky;
+  top: 50px;
+  border: 1px solid #FDF8F5;
+ }
 /* Element Selectors */
 body {
   position: relative;
